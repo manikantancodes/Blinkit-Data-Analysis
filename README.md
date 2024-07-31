@@ -20,3 +20,5 @@ The project resulted in a comprehensive Blinkit grocery store sales analysis das
 - Sales performance analysis
 - Trend identification
 - Data-driven decision-making to enhance sales.
+
+![image alt](https://github.com/manikantancodes/Blinkit-Data-Analysis/blob/63673f0b8a9e1de2f803871b288e7ebde8159742/Dashboard-Image.jpg)
